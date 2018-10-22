@@ -1,0 +1,138 @@
+{
+	"run": [
+		{
+			"filePath": "/northwind/webapp/index.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"_metadata": {
+				"id": "2071016",
+				"runnerId": "webapprunner",
+				"displayName": "App"
+			}
+		},
+		{
+			"filePath": "/northwind/webapp/test/mockServer.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"_metadata": {
+				"id": "7584223",
+				"runnerId": "webapprunner",
+				"displayName": "App (Mock Server)"
+			}
+		},
+		{
+			"filePath": "/northwind/webapp/test/unit/unitTests.qunit.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"_metadata": {
+				"id": "9991437",
+				"runnerId": "webapprunner",
+				"displayName": "Unit Tests"
+			}
+		},
+		{
+			"filePath": "/northwind/webapp/test/integration/opaTests.qunit.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "",
+			"_metadata": {
+				"id": "9935677",
+				"runnerId": "webapprunner",
+				"displayName": "OPA Tests"
+			}
+		},
+		{
+			"filePath": "/northwind/webapp/test/testsuite.qunit.html",
+			"previewMode": 1,
+			"dataMode": 1,
+			"workspace": "withoutWorkspace",
+			"ui5ActiveVersion": "snapshot",
+			"ui5VerSource": null,
+			"isDefaultVersion": 1,
+			"urlParameters": [
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				},
+				{
+					"paramName": "",
+					"paramValue": "",
+					"paramActive": false
+				}
+			],
+			"hashParameter": "",
+			"_metadata": {
+				"id": "4413440",
+				"runnerId": "webapprunner",
+				"displayName": "Test Suite (Unit, OPA)"
+			}
+		}
+	]
+}
